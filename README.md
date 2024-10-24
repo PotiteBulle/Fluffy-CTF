@@ -1,5 +1,5 @@
 # Fluffy-CTF
-Cybersécurité Scripts (Raspberry pi)
+CTF Scripts (Raspberry pi)
 
 
 ## Instructions pour Modifier le Chemin de Sauvegarde :
