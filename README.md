@@ -24,6 +24,9 @@ Sont sauvegardés, veuillez suivre ces étapes :
 
 **Maintenant, lorsque vous exécuterez les scripts, les résultats seront enregistrés dans le nouvel emplacement que vous avez spécifié.**
 
+# Permissions des fichiers
+modifier les permissions d'accès aux fichiers sur un système Unix/Linux, vous pouvez utiliser la commande `chmod`
+
 # Clause de Non-Responsabilité
 
 Les scripts et outils fournis dans ce dépôt sont destinés à des fins éducatives et de recherche uniquement. L'utilisation de ces outils doit être effectuée de manière responsable et éthique. L'auteur·e ne peut être tenu·e responsable des conséquences de l'utilisation de ces scripts, y compris, mais sans s'y limiter, les dommages aux systèmes, les pertes de données ou les violations de la loi. En utilisant ce dépôt, vous acceptez de respecter toutes les lois applicables et de n'utiliser ces outils que dans des environnements autorisés. Toute utilisation inappropriée est à vos propres risques.
