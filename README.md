@@ -10,8 +10,9 @@ Pour personnaliser l'emplacement où les résultats des scripts sont sauvegardé
 - `john_pi.sh`
 - `image_pi.sh`
 - `ovpn_pi.sh`
+- `ssh_pi.sh``
 
-1. Ouvrez le script : Utilisez votre éditeur de texte préféré pour ouvrir `nikto_pi.sh` , `nmap_pi.sh` , `john_pi.sh` et `image_pi.sh` , `ovpn_pi.sh`
+1. Ouvrez le script : Utilisez votre éditeur de texte préféré pour ouvrir
 
 2. Recherchez la ligne de chemin de sauvegarde : Localisez la ligne qui définit le chemin où les résultats sont enregistrés. Elle ressemble généralement à ceci :
 
