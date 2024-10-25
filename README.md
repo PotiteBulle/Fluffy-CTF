@@ -1,5 +1,5 @@
 # Fluffy-CTF
-CTF Scripts (Raspberry pi)
+Ensemble d'outils pouvant être utilisé lors de CTF, de tests de pénétration ou d'exercices sur des sites web prévus à cet effet.
 
 
 ## Instructions pour Modifier le Chemin de Sauvegarde :
