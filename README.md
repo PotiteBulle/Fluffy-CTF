@@ -6,11 +6,12 @@ CTF Scripts (Raspberry pi)
 
 Pour personnaliser l'emplacement où les résultats des scripts 
 - `nikto_pi.sh`
-- `nmap_pi.sh` 
+- `nmap_pi.sh`
+- `john_pi.sh`
 
 Sont sauvegardés, veuillez suivre ces étapes :
 
-1. Ouvrez le script : Utilisez votre éditeur de texte préféré pour ouvrir `nikto_pi.sh` et `nmap_pi.sh`
+1. Ouvrez le script : Utilisez votre éditeur de texte préféré pour ouvrir `nikto_pi.sh` , `nmap_pi.sh` et `john_pi.sh`
 
 2. Recherchez la ligne de chemin de sauvegarde : Localisez la ligne qui définit le chemin où les résultats sont enregistrés. Elle ressemble généralement à ceci :
 
@@ -18,7 +19,7 @@ Sont sauvegardés, veuillez suivre ces étapes :
 "/home/potate/scripts/results"
 ```
 
-3. Modifiez le chemin : Changez /home/potate/scripts/results par le chemin de votre choix. Assurez-vous que le dossier de destination existe ou créez-le avant d'exécuter le script.
+3. Modifiez le chemin : **Changez /home/potate/scripts/results** par le chemin de votre choix. Assurez-vous que le dossier de destination existe ou créez-le avant d'exécuter le script.
 
 4. Enregistrez vos modifications : Une fois les modifications apportées, enregistrez le fichier et fermez l'éditeur.
 
