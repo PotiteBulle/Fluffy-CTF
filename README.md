@@ -25,7 +25,7 @@ Pour personnaliser l'emplacement où les résultats des scripts sont sauvegardé
 
 **Maintenant, lorsque vous exécuterez les scripts, les résultats seront enregistrés dans le nouvel emplacement que vous avez spécifié.**
 
-## Comment exécuter un script [Bash](https://fr.wikipedia.org/wiki/Bourne-Again_shell) : Il existe plusieurs façons d'exécuter un script Bash
+## Comment exécuter un script [Bash](https://www.leshirondellesdunet.com/bash) : Il existe plusieurs façons d'exécuter un script Bash
 
 - **Méthode 1 : En utilisant `./` devant le nom du fichier**
 ```bash
