@@ -25,7 +25,7 @@ Pour personnaliser l'emplacement où les résultats des scripts sont sauvegardé
 
 **Maintenant, lorsque vous exécuterez les scripts, les résultats seront enregistrés dans le nouvel emplacement que vous avez spécifié.**
 
-## Comment exécuter un script Bash : Il existe plusieurs façons d'exécuter un script Bash
+## Comment exécuter un script [Bash](https://fr.wikipedia.org/wiki/Bourne-Again_shell) : Il existe plusieurs façons d'exécuter un script Bash
 
 - **Méthode 1 : En utilisant `./` devant le nom du fichier**
 ```bash
@@ -40,7 +40,7 @@ sh nom_du_script.sh
 ```
 
 # Permissions des fichiers
-Pour modifier les permissions d'accès aux fichiers sur un système Unix/Linux, vous pouvez utiliser la commande 
+Pour modifier les [permissions d'accès aux fichiers sur un système Unix/Linux](https://www.leshirondellesdunet.com/chmod-et-chown), vous pouvez utiliser la commande 
 ```bash
 chmod +x nom_du_script.sh
 ```
