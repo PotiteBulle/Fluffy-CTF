@@ -1,5 +1,5 @@
 # Fluffy-CTF
-Ensemble d'outils pouvant être utilisé lors de CTF, de tests de pénétration ou d'exercices sur des sites web prévus à cet effet.
+Ensemble d'outils pouvant être utilisé lors de CTF, de tests de pénétration ou d'exercices sur des sites web prévus à cet effet. (Test sous Raspberry Pi 3B+)
 
 
 ## Instructions pour Modifier le Chemin de Sauvegarde :
