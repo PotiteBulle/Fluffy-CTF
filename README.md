@@ -27,11 +27,11 @@ Pour personnaliser l'emplacement où les résultats des scripts sont sauvegardé
 
 ## Comment exécuter un script Bash : Il existe plusieurs façons d'exécuter un script Bash
 
-1. **Méthode 1 : En utilisant `./` devant le nom du fichier**
+- **Méthode 1 : En utilisant `./` devant le nom du fichier**
 ```bash
 ./nom_du_script.sh
 ```
-2. **Méthode 2 : En utilisant bash ou sh suivi du nom du fichier**
+- **Méthode 2 : En utilisant bash ou sh suivi du nom du fichier**
 ```bash
 bash nom_du_script.sh
 ```
