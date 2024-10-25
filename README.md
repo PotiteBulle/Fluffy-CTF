@@ -4,12 +4,12 @@ CTF Scripts (Raspberry pi)
 
 ## Instructions pour Modifier le Chemin de Sauvegarde :
 
-Pour personnaliser l'emplacement où les résultats des scripts 
+Pour personnaliser l'emplacement où les résultats des scripts sont sauvegardés, veuillez suivre ces étapes :
 - `nikto_pi.sh`
 - `nmap_pi.sh`
 - `john_pi.sh`
 
-Sont sauvegardés, veuillez suivre ces étapes :
+
 
 1. Ouvrez le script : Utilisez votre éditeur de texte préféré pour ouvrir `nikto_pi.sh` , `nmap_pi.sh` et `john_pi.sh`
 
