@@ -31,7 +31,7 @@ Pour personnaliser l'emplacement où les résultats des scripts sont sauvegardé
 ```bash
 ./nom_du_script.sh
 ```
-- **Méthode 2 : En utilisant bash ou sh suivi du nom du fichier**
+- **Méthode 2 : En utilisant `bash` ou `sh` suivi du nom du fichier**
 ```bash
 bash nom_du_script.sh
 ```
