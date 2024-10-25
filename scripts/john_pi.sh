@@ -20,7 +20,7 @@ else
 fi
 
 # Exécuter John the Ripper pour casser les hachages
-john "$hash_file" --wordlist=/usr/share/wordlists/rockyou.txt
+john "$hash_file" --wordlist=/usr/share/wordlists/rockyou.txt # CHANGE THIS
 
 # Enregistrer les résultats dans le dossier de sortie
 output_file="$output_dir/hash_cracked.txt"
