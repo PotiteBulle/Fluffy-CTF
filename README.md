@@ -40,8 +40,10 @@ sh nom_du_script.sh
 ```
 
 # Permissions des fichiers
-Pour modifier les permissions d'accès aux fichiers sur un système Unix/Linux, vous pouvez utiliser la commande `chmod +x nom_du_script.sh`
-
+Pour modifier les permissions d'accès aux fichiers sur un système Unix/Linux, vous pouvez utiliser la commande 
+```bash
+chmod +x nom_du_script.sh
+```
 # Clause de Non-Responsabilité
 
 Les scripts et outils fournis dans ce dépôt sont destinés à des fins éducatives et de recherche uniquement. L'utilisation de ces outils doit être effectuée de manière responsable et éthique. L'auteur·e ne peut être tenu·e responsable des conséquences de l'utilisation de ces scripts, y compris, mais sans s'y limiter, les dommages aux systèmes, les pertes de données ou les violations de la loi. En utilisant ce dépôt, vous acceptez de respecter toutes les lois applicables et de n'utiliser ces outils que dans des environnements autorisés. Toute utilisation inappropriée est à vos propres risques.
